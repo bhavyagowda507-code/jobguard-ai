@@ -1,6 +1,5 @@
 flask
 pypdf
-easyocr
 joblib
 gunicorn
 scikit-learn==1.3.2
