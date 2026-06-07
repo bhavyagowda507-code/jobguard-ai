@@ -49,7 +49,7 @@ def login():
         else:
             error = "Invalid system credentials. Please try again."
             
-    return render_template('login.html', error=error)
+    return render_template('job_analyser.html', error=error)
 
 
 # ---------------------------------------------------------
