@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for, jsonify
 import os
 import pypdf
-import easyocr
+# import easyocr
 import joblib
 
 app = Flask(__name__)
